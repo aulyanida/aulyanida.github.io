@@ -2,27 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aulyanida.github.io/</loc>
-    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
+    <loc>https://aulyanida.id/</loc>
   </url><url>
-    <loc>https://aulyanida.github.io/categories/</loc>
-    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
+    <loc>https://aulyanida.id/categories/</loc>
   </url><url>
-    <loc>https://aulyanida.github.io/blog/</loc>
-    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
+    <loc>https://aulyanida.id/suratuntuknida/</loc>
+    <priority>0.1</priority>
   </url><url>
-    <loc>https://aulyanida.github.io/tags/salak/</loc>
-    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aulyanida.github.io/blog/2022-06-17-salak-sangka/</loc>
-    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aulyanida.github.io/categories/sekilas/</loc>
-    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aulyanida.github.io/tags/</loc>
-    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aulyanida.github.io/about/</loc>
+    <loc>https://aulyanida.id/tags/</loc>
   </url>
 </urlset>
