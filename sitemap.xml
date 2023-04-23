@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aulyanida.id/</loc>
+    <loc>https://tes.aulyanida.id/</loc>
   </url><url>
-    <loc>https://aulyanida.id/categories/</loc>
+    <loc>https://tes.aulyanida.id/categories/</loc>
   </url><url>
-    <loc>https://aulyanida.id/suratuntuknida/</loc>
+    <loc>https://tes.aulyanida.id/suratuntuknida/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://aulyanida.id/tags/</loc>
+    <loc>https://tes.aulyanida.id/tags/</loc>
   </url>
 </urlset>
